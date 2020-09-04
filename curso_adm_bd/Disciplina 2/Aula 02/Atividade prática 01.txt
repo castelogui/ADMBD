@@ -1,0 +1,76 @@
+Requesitos funcionais:
+    Cadastrar competição
+    Cadastrar partida
+    Cadastrar time
+    Cadastrar jogador
+    Cadastrar campo
+    Cadastrar técnico
+    Cadastrar juízes
+    Buscar competição
+    Buscar partida
+    Buscar time
+    Buscar jogador
+    Buscar campo
+    Buscar técnico
+    Buscar juízes
+	
+Entidades:
+    Competição:
+	id
+	nome
+	tipo: torneio/campeonato/taça/liga/copa
+	ano
+	prêmio
+	resultado
+	competidores
+    Partida:
+	id
+	competição
+	local
+	data/hora
+	times
+    Resultado
+	id
+	placar
+	cartões
+	faltas
+    Time
+	id
+	nome
+	jogadores
+	uniforme
+	prêmios
+    Jogador
+	id
+	nome
+	dataNascimento
+	time
+	função
+    Campo
+	id
+	nome
+	local
+	tamanho
+    Técnico
+	id
+	nome
+	time
+	uniforme
+    Juízes
+	id
+	nome
+	função
+	uniforme
+
+
+
+
+
+
+
+
+
+
+
+
+

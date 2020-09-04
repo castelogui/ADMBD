@@ -1,0 +1,34 @@
+Requesitos funcionais:
+    Cadastrar loja
+    Cadastrar funcionarios
+    Cadastrar produtos
+    Cadastrar vendas
+    Buscar funcionarios
+    Buscar produtos
+    Buscar vendas
+
+Entidades:
+    Loja
+	CNPJ
+	nome
+	local
+	uniforme
+    Funcionário
+	CPF
+	nome
+	função
+	salário
+	loja
+    Produto
+	id
+	tipo
+	cor
+	preço
+	tamanho
+	marca
+	ano	
+    Venda
+	id
+	valor
+	data/hora
+	vendedor
