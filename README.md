@@ -12,3 +12,5 @@ Desenvolver a educação profissional integrada ao trabalho, à ciência
 - Instalar e utilizar um SGBD – Sistema de Gerenciamento de Banco de Dados;
 - Definir configurações de segurança e serviços;
 - Utilizar ferramentas para monitoração em SGBD - Sistema de Gerenciamento de Banco de Dados;
+
+[Aula 05](https://github.com/castelogui/ADMBD/tree/master/curso_adm_bd/Disciplina%202/Aula%2005)
