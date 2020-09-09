@@ -8,4 +8,4 @@
 
 ## Meu Diagrama ER
 
-![Meu Diagrama ER](https://raw.githubusercontent.com/castelogui/ADMBD/master/curso_adm_bd/Disciplina%202/Aula%2007/Aula%2007%20-%20Dentista%20do%20Povo.jpg)
+![Meu Diagrama ER](https://raw.githubusercontent.com/castelogui/ADMBD/master/Disciplina%202/Aula%2007/Aula%2007%20-%20Dentista%20do%20Povo.jpg)

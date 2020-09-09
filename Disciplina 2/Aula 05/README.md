@@ -8,4 +8,4 @@
 
 ## Meu Diagrama ER
 
-![Minha ativida](https://raw.githubusercontent.com/castelogui/ADMBD/master/curso_adm_bd/Disciplina%202/Aula%2005/Aula%2005%20-%20Supermercado%20Vende%20Mais.jpg)
+![Minha ativida](https://raw.githubusercontent.com/castelogui/ADMBD/master/Disciplina%202/Aula%2005/Aula%2005%20-%20Supermercado%20Vende%20Mais.jpg)

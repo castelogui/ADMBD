@@ -66,9 +66,9 @@ Desenvolver a educação profissional integrada ao trabalho, à ciência
 
 - ### Atividades da Disciplina:
 
-  - [Aula 05](https://github.com/castelogui/ADMBD/tree/master/curso_adm_bd/Disciplina%202/Aula%2005)
+  - [Aula 05](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Aula%2005)
 
-  - [Aula 06](https://github.com/castelogui/ADMBD/tree/master/curso_adm_bd/Disciplina%202/Aula%2006)
+  - [Aula 06](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Aula%2006)
 
-  - [Aula 07](https://github.com/castelogui/ADMBD/tree/master/curso_adm_bd/Disciplina%202/Aula%2007)
+  - [Aula 07](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Aula%2007)
 

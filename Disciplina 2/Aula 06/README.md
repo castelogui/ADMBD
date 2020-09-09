@@ -6,4 +6,4 @@
 
 ## Meu Diagrama ER
 
-![Meu diagrama ER](https://raw.githubusercontent.com/castelogui/ADMBD/master/curso_adm_bd/Disciplina%202/Aula%2006/Aula%2006%20-%20Escola%20de%20Inform%C3%A1tica%20Aprende%20Mais.jpg)
+![Meu diagrama ER](https://raw.githubusercontent.com/castelogui/ADMBD/master/Disciplina%202/Aula%2006/Aula%2006%20-%20Escola%20de%20Inform%C3%A1tica%20Aprende%20Mais.jpg)
