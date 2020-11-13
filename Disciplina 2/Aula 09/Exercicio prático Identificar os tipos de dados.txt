@@ -1,0 +1,41 @@
+
+Quarto:
+	código integer
+	status Varchar (20)
+	descrição Varchar (100)
+	tipo Varchar (20)
+	número Integer
+	valorDiária Float
+
+Produtos:
+	código integer
+	tipo Varchar (20)
+	quantidade integer
+	valor float
+	descrição varchar (100)
+
+Hospedagem:
+	código integer
+	valorTotal float
+	dataCheck-in date
+	dataCheck-out date
+	quantidadeDeDiárias integer
+Cliente:
+	código integer
+	nome Varchar (80)
+	cpf Varchar (14)
+	dataNascimemto date
+	contato varchar (11)
+	endereço varchar (100)
+	rg varchar (7)
+
+Funcionário:
+	código integer
+	nome Varchar (80)
+	cpf varchar (14)
+	função varchar (20)
+	turno Varchar (1)
+	contato Varchar (11)
+
+
+
