@@ -71,4 +71,7 @@ Desenvolver a educação profissional integrada ao trabalho, à ciência
   - [Aula 06](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Aula%2006)
 
   - [Aula 07](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Aula%2007)
+  
+  - [Atividade final]([https](https://github.com/castelogui/ADMBD/tree/master/Disciplina%202/Atividade%final)) 
+
 
