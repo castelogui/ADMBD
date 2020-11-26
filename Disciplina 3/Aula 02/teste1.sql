@@ -1,0 +1,38 @@
+CREATE DATABASE pratica1;
+
+USE pratica1;
+
+CREATE TABLE Cliente(
+id_cli INTEGER PRIMARY KEY AUTO_INCREMENT,
+nome_cli VARCHAR(100),
+cpf VARCHAR(20),
+data_nasc_cli DATE,
+sexo VARCHAR(1),
+email VARCHAR(150)
+); 
+
+CREATE TABLE Cidade(
+id_cid INTEGER PRIMARY KEY AUTO_INCREMENT,
+nome_cid VARCHAR(100),
+data_criacao_cid date
+);
+
+CREATE TABLE Pais(
+id_pais INTEGER PRIMARY KEY AUTO_INCREMENT,
+nome VARCHAR(100),
+continente VARCHAR(150)
+);
+
+CREATE TABLE Endereco(
+id_end INTEGER PRIMARY KEY AUTO_INCREMENT,
+rua_end VARCHAR(100),
+numero_end INTEGER,
+bairro_end VARCHAR(100)
+);
+
+CREATE TABLE Estado(
+id_est INTEGER PRIMARY KEY AUTO_INCREMENT,
+nome_est VARCHAR(100),
+sigla_est VARCHAR(2),
+regiao_est VARCHAR(100)
+);
